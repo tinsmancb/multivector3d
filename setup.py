@@ -1,11 +1,15 @@
 from setuptools import setup
 
+with open('README.md', 'r') as fh:
+    long_description = fh.read()
+
 setup(name='multivector3d',
       version='0.1',
       description='Three Dimensional Multivector, based on numpy.',
+      long_description=long_description,
       author='Colin Tinsman',
       author_email='tinsmancb@gmail.com',
-      website='https://github.com/tinsmancb/multivector3d',
+      url='https://github.com/tinsmancb/multivector3d',
       classifiers=[
           'Development Status :: 3 - Alpha',
           'License :: OSI Approved :: MIT License',
