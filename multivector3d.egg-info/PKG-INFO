@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: multivector3d
+Version: 0.1
+Summary: Three Dimensional Multivector, based on numpy.
+Home-page: UNKNOWN
+Author: Colin Tinsman
+Author-email: tinsmancb@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3

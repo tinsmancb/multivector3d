@@ -1,0 +1,10 @@
+README.md
+setup.py
+multivector3d/Multivector3D.py
+multivector3d/__init__.py
+multivector3d.egg-info/PKG-INFO
+multivector3d.egg-info/SOURCES.txt
+multivector3d.egg-info/dependency_links.txt
+multivector3d.egg-info/not-zip-safe
+multivector3d.egg-info/requires.txt
+multivector3d.egg-info/top_level.txt
