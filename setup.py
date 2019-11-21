@@ -5,6 +5,7 @@ setup(name='multivector3d',
       description='Three Dimensional Multivector, based on numpy.',
       author='Colin Tinsman',
       author_email='tinsmancb@gmail.com',
+      website='https://github.com/tinsmancb/multivector3d',
       classifiers=[
           'Development Status :: 3 - Alpha',
           'License :: OSI Approved :: MIT License',
