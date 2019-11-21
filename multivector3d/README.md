@@ -26,6 +26,11 @@ in the constructor:
 * `a.bivector` Bivector, in the `{e_2 e_3, e_3 e_1, e_1 e_2}` basis
 * `a.pscalar` Pseudoscalar `e_1 e_2 e_3`.
 
-This project is more of an acedemic exercise than anything production ready at
+This project is more of an academic exercise than anything production ready at
 this point. If you want to do computations with the geometric algebra in python,
 check out the [clifford](https://clifford.readthedocs.io/en/latest/) package.
+
+## Installation
+
+The package can be installed from pip: `pip install multivector3d`. The only 
+dependency is numpy.
